@@ -55,6 +55,6 @@ st.sidebar.markdown(
 
 # Skin Type Detection
 st.sidebar.markdown(
-    f'<a href="https://skin-type-detector.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: blue; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Skin Type Detection</a>',
+    f'<a href="https://skin-t-finder.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: blue; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Skin Type Detection</a>',
     unsafe_allow_html=True
 )
