@@ -49,7 +49,7 @@ else:
 
 # Skin Disease Detection
 st.sidebar.markdown(
-    f'<a href="https://dermatrix.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Skin Disease Detection</a>',
+    f'<a href="https://skin-d-finder.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Skin Disease Detection</a>',
     unsafe_allow_html=True
 )
 
